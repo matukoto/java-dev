@@ -6,6 +6,8 @@
 * [x] Dollarの副作用をどうする？
   * [x] Dollarオブジェクトの状態が変化してしまう -> times メソッドで Dollar オブジェクトを生成する
 * [ ] Moneyの丸め処理をどうする？
+- [ ] equals()
+- [ ] hashCode()
 
 ## メモ
 まずはTODOリストを作成する。
