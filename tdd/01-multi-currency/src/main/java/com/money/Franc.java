@@ -4,10 +4,7 @@ class Franc extends Money {
 
   Franc(int amount) {
     this.amount = amount;
-  }
-
-  String currency() {
-    return "CHF";
+    currency = "CHF";
   }
 
   Money times(int multiplier) {
